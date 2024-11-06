@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    ft_printf("I am feeling very %s right now", "cool");
+    ft_printf("I am feeling very %i right now", 4);
     return(0);
 }
